@@ -14,3 +14,6 @@
 7. **Model Training:** Machine learning models were built using the pre-processed data. The data was split into training and test sets, and the training set was used to train the models.
 8. **Model Evaluation:** The performance of the models was evaluated using various metrics such as Root Mean Squared Error, Mean Absolute Error, R2 Score, and accuracy. This helped to determine which models were performing best.
 9. **Choosing the Best Model:** Based on the evaluation results, the best-performing model was chosen for predicting student performance.
+
+## Follow Me on:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adritpal/)
